@@ -1,0 +1,10 @@
+Nome do aluno: Joao da Silva - Média: 6.5
+	Nota 1: 5.0
+	Nota 2: 6.0
+	Nota 3: 7.0
+	Nota 4: 8.0
+Nome do aluno: carlos - Média: 6.5
+	Nota 1: 5.0
+	Nota 2: 6.0
+	Nota 3: 7.0
+	Nota 4: 8.0
