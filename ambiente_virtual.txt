@@ -1,0 +1,10 @@
+Ambiente Virtual é uma pasta, contendo:
+
+    - interpretador python
+    - bibliotecas do python (pacotes)
+    - sistema
+
+Para criar:
+   1. entrar no Prompt de Comando
+   2. criar o ambiente virtual: python -m venv nome_do_ambiente
+   3. ativar o ambiente: nome_do_ambiente\Scripts\activate
